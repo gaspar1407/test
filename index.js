@@ -118,6 +118,8 @@ function potenciaNumeros(base, exponente) {
   return base ** exponente;
 }
 
+//seba quiere testear algo
+
 // ❌NO ELIMINAR NI MODIFICAR NADA DEBAJO DE ESTA LINEA❌
 module.exports = {
   determinarPosNegCero,
